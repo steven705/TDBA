@@ -1,0 +1,13 @@
+dgl==2.4.0+cu121
+easydict==1.13
+matplotlib==3.10.5
+numpy==1.24.3
+pandas==1.5.3
+PyYAML==6.0.1
+PyYAML==6.0.2
+scikit_learn==1.2.2
+scipy==1.16.1
+sympy==1.13.3
+torch==2.1.1+cu121
+torch==2.1.1
+tqdm==4.67.1
